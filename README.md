@@ -1,5 +1,9 @@
 # 🚀 Prueba Técnica React Native - COMPLETADA ✅
 
+## ¿USO DE IA PARA ESTE PROYECTO?
+Actualmente lo usé para realizar la documentación presente y unos manejos de estados para este código. JUSTINCASE 😭
+
+
 ## 📌 Descripción
 Aplicación React Native desarrollada como prueba técnica que consume la API de JSONPlaceholder para mostrar información de usuarios con funcionalidades avanzadas. **Ahora integrada con Expo para un desarrollo más ágil.**
 
@@ -180,7 +184,7 @@ src/
 
 ### Pasos de instalación
 1. Clonar el repositorio
-2. Instalar dependencias: `npm install`
+2. Instalar dependencias: `npm install --legacy-peer-deeps`
 3. Para iOS: `cd ios && pod install && cd ..`
 4. Ejecutar en Android: `npm run android`
 5. Ejecutar en iOS: `npm run ios`
